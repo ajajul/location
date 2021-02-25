@@ -55,6 +55,7 @@ return [
     'url' => env('APP_URL', 'http://localhost'),
 
     'asset_url' => env('ASSET_URL', null),
+    'GOOGLE_API_KEY' => env('GOOGLE_API_KEY', null),
 
     /*
     |--------------------------------------------------------------------------
